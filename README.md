@@ -1,8 +1,7 @@
-# Profile
-<img align="right" src="https://komarev.com/ghpvc/?username=FSolution&label=Profile%20views&color=008000&style=flat" />
+<img align="right" src="https://komarev.com/ghpvc/?username=FSolution&label=Profile%20views&color=#008000&style=flat" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=<span+style='color:%23008000;'>Hi+There!+👋</span>;+I'm+Forget+Nukeri!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Forget+Nukeri!;" />
 </h1>
 
 <h3 align="center">A passionate software developer from South Africa</h3>
@@ -66,4 +65,4 @@
 <a href='(https://github.com/09JESUS?tab=repositories)/' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
 
-<br/>
+<br/>"
