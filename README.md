@@ -9,7 +9,8 @@
 <br/>
 
 <div align="center">
-  🔭 I’m currently working on <b>Updating My Portfolio</b><br/>
+  🔭 I’m currently working on <b>NWU Sports League Manager</b><br/>
+  🔭 I’m currently working on <b>FSolution Investment and Insurance App!</b><br/>
   🌱 I’m currently learning <b>Node.js, React, APIs</b><br/>
   💬 Ask me about <b>HTML, CSS, React, Firebase... or anything <a href="https://github.com/09JESUS?tab=repositories" target="_blank">here</a></b><br/>
   ⚡ Fun fact: <b>My computer keeps asking me to reboot. Does it think I'm some kind of designer shoe?</b>
